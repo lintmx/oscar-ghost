@@ -6,6 +6,10 @@ Live theme in use:
 
 [![ScreenGif](https://raw.githubusercontent.com/oscarmorrison/oscar-ghost/master/ScreenDemo.gif)](http://blog.oscarmorrison.com)
 
+
+## Forked
+This fork is for my [blog](https://lintmx.com).To make it more in line with my request.
+
 ## Introduction
 The **Oscar Ghost** Theme is a clean, simple, minimalistic theme built for ghost. The theme is built from an original 
 fork of the [Lanyon-Ghost](https://github.com/PxlBuzzard/lanyon-ghost) Theme. 
