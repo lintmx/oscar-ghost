@@ -117,4 +117,21 @@ i {
 .icon-paypal:before {
     content: "\ead8";
 }
-
+.icon-mail:before {
+    content: "\e945";
+}
+.icon-telegram:before {
+    content: "\ea95";
+}
+.icon-steam:before {
+    content: "\eaad";
+}
+.icon-rss:before {
+    content: "\ea9b";
+}
+.icon-key:before {
+    content: "\e98d";
+}
+.icon-about:before {
+    content: "\ea0c";
+}
